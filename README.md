@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mstfucrr&label=Profile%20views&color=0e75b6&style=flat" alt="mstfucrr" /> </p>
 
-- 🔭 I am currently working on Prep Test training website with React [https://prep-test.com](https://prep-test.com)
+- 🔭 I am currently working on Prep Test training website with Next.js [https://prep-test.com](https://prep-test.com)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
